@@ -40,6 +40,7 @@ There are other compatible flight controllers and variants, including those [doc
   - [AirMind MindPX](../flight_controller/mindpx.md)
   - [AirMind MindRacer](../flight_controller/mindracer.md)
   - [ARK Electronics ARKV6X](../flight_controller/arkv6x.md) (and [ARK Electronics Pixhawk Autopilot Bus Carrier](../flight_controller/arkpab.md))
+  - [ARK FPV Flight Controller](../flight_controller/arkfpv.md) 
   - [CUAV X7](../flight_controller/cuav_x7.md)
   - [CUAV Nora](../flight_controller/cuav_nora.md)
   - [CUAV V5+ (FMUv5)](../flight_controller/cuav_v5_plus.md)
