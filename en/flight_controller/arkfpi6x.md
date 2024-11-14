@@ -4,10 +4,15 @@ The ARK Pi6X Flow integrates a Raspberry Pi Compute Module 4 (CM4) Carrier, [ARK
 
 ![ARK Pi6X Flow Flight Controller](../../assets/flight_controller/ark_pi6x_flow/ark_pi6xflow.jpg)
 
-## Information
+## Where to Buy
 
-* [ARK Pi6X Flow](https://arkelectron.com/product/ark-pi6x-flow/)
-* [ARK Pi6X Flow Documentation](https://arkelectron.gitbook.io/ark-documentation/flight-controllers/ark-pi6x-flow)
+Order this module from:
+
+- [ARK Electronics](https://arkelectron.com/product/ark-pi6x-flow/) (US)
+
+Find more information:
+
+- [ARK Pi6X Flow Documentation](https://arkelectron.gitbook.io/ark-documentation/flight-controllers/ark-pi6x-flow)
 
 ## Key Components
 

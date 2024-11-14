@@ -11,6 +11,7 @@ Order this module from:
 - [ARK Electronics](https://arkelectron.com/product/ark-teseo-gps/) (US)
 
 Find more information:
+
 - [ARK TESEO GPS Documentation](https://arkelectron.gitbook.io/ark-documentation/sensors/ark-teseo-gps)
 
 ## Hardware Specifications

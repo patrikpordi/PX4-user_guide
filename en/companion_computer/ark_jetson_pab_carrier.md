@@ -6,11 +6,14 @@ The ARK Jetson Pixhawk Autopilot Bus (PAB) Carrier is designed based on the [Pix
 
 ![ARK Jetson PAB Carrier](../../assets/companion_computer/ark_jetson_pab_carrier/ark_jetson_pab_carrier.jpg)
 
-## Information
+## Where to Buy
 
-* [ARK Jetson PAB Carrier](https://arkelectron.com/product/ark-jetson-pab-carrier/)
-* [ARK Jetson Orin NX NDAA Bundle](https://arkelectron.com/product/ark-jetson-orin-nx-ndaa-bundle/)
-* [ARK Jetson PAB Documentation](https://arkelectron.gitbook.io/ark-documentation/flight-controllers/ark-jetson-pab-carrier)
+- [ARK Jetson PAB Carrier](https://arkelectron.com/product/ark-jetson-pab-carrier/)
+- [ARK Jetson Orin NX NDAA Bundle](https://arkelectron.com/product/ark-jetson-orin-nx-ndaa-bundle/)
+
+Find more information:
+
+- [ARK Jetson PAB Documentation](https://arkelectron.gitbook.io/ark-documentation/flight-controllers/ark-jetson-pab-carrier)
 
 ## Specifications
 
